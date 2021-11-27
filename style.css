@@ -1,0 +1,60 @@
+body{
+  background: linear-gradient(to right,#fdfdfd,#ebedee 70%);
+}
+
+header{
+    position: fixed;
+ 
+}
+nav{
+    display: flex;
+}
+.container{
+    display: flex;
+   text-align: center;
+   justify-content: center;
+  
+}
+#mesi{
+    display: flex;
+}
+.bi bi-search{
+    fill: transparent;
+}
+#h1{
+    font-family: 'Playfair Display', serif;
+}
+#h2{
+  font-family: 'Playfair Display', serif;
+ 
+}
+#pp{
+  background: linear-gradient(90deg,#00dbde,#fc00ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#h5{
+  font-family: 'Playfair Display', serif;
+
+}
+.card{
+  padding: 45px ;
+  margin: 18px;
+}
+#h1p{
+  margin-top: 10%;
+}
+#h2p{
+   height: 20%;
+   width: 100%;
+   margin-top: 35%;
+}
+header{
+  width: 100%;
+}
+.row{
+  display: flex;
+}
+.d-flex{
+  display: flex;
+}
